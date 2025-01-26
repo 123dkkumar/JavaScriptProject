@@ -1,1 +1,1 @@
-# Here is some js Projects using spis,pure js etc.
+# Here is some js Projects using apis,pure js etc.
